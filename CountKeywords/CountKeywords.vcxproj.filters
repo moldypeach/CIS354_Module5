@@ -18,12 +18,18 @@
     <ClInclude Include="SignatureBlock.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="CountKeywords.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="SignatureBlock.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="TestCountKeywords.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CountKeywords.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

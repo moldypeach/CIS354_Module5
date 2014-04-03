@@ -69,9 +69,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="CountKeywords.h" />
     <ClInclude Include="SignatureBlock.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CountKeywords.cpp" />
     <ClCompile Include="SignatureBlock.cpp" />
     <ClCompile Include="TestCountKeywords.cpp" />
   </ItemGroup>
